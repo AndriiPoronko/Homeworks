@@ -1,0 +1,10 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+[Oo]bj/
+[Bb]in/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
